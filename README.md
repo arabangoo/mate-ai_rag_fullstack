@@ -637,39 +637,39 @@ VITE_READYPLAYERME_SUBDOMAIN=your-subdomain-here
 
 ### 자주 묻는 질문
 
-**Q: Gemini API 키는 어디서 발급받나요?**
+**Q: Gemini API 키는 어디서 발급받나요?**   
 A: https://aistudio.google.com/app/apikey
 
-**Q: 무료로 사용 가능한가요?**
+**Q: 무료로 사용 가능한가요?**   
 A: Gemini API는 무료 할당량이 있습니다. 자세한 내용은 Google AI 문서 참조.
 
-**Q: Ready Player Me 설정이 필수인가요?**
+**Q: Ready Player Me 설정이 필수인가요?**   
 A: 아닙니다. 선택사항입니다. 설정하지 않아도 이미지 업로드 방식으로 캐릭터를 생성할 수 있습니다.
 
-**Q: 3D 아바타 생성 시 성별을 어떻게 선택하나요?**
+**Q: 3D 아바타 생성 시 성별을 어떻게 선택하나요?**   
 A:
 - 1단계에서 선택한 성별은 AI의 정체성(대화 스타일)을 결정합니다
 - 3D 아바타의 외형 성별은 아바타 에디터 내에서 별도로 선택할 수 있습니다
 - 예: 여성 AI + 남성 아바타, 남성 AI + 여성 아바타 등 자유로운 조합 가능
 
-**Q: MATE.AI 3D 아바타가 로딩되지 않아요**
+**Q: MATE.AI 3D 아바타가 로딩되지 않아요**   
 A:
 1. Vite 개발 서버를 재시작하세요 (환경 변수 반영)
 2. 브라우저 콘솔(F12)에서 에러 메시지 확인
 3. Ready Player Me Studio에서 Subdomain이 올바른지 확인
 4. 10초 타임아웃 후 자동으로 아바타 에디터가 표시됩니다
 
-**Q: 다른 언어도 지원하나요?**
+**Q: 다른 언어도 지원하나요?**   
 A: 현재는 한국어만 지원합니다.
 
-**Q: Backend 서버가 시작되지 않아요**
+**Q: Backend 서버가 시작되지 않아요**   
 A:
 1. Python 3.11 이상이 설치되어 있는지 확인
 2. 가상환경이 활성화되어 있는지 확인
 3. `.env` 파일에 GEMINI_API_KEY가 설정되어 있는지 확인
 4. `pip install -e .`로 패키지가 제대로 설치되었는지 확인
 
-**Q: Frontend 빌드 에러가 발생해요**
+**Q: Frontend 빌드 에러가 발생해요**   
 A:
 1. Node.js 18 이상이 설치되어 있는지 확인
 2. `node_modules` 삭제 후 `npm install` 재실행
