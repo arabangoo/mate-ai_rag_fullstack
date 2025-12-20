@@ -30,17 +30,19 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
    - 자유로운 커스터마이징
 
 2. **외형 디자인** (2가지 옵션)
+<img width="603" height="660" alt="image_1" src="https://github.com/user-attachments/assets/a18ebe32-aaca-49e4-966c-8fca953a4421" />
+
    - 🎮 **MATE.AI 3D 아바타 생성**
      - MMORPG 수준의 고품질 3D 캐릭터 커스터마이징
      - 아바타 에디터 내에서 성별, 얼굴 모양, 헤어스타일, 의상, 액세서리 등 자유롭게 선택
      - 셀카로 얼굴 인식 생성 가능
      - Web 기반 실시간 3D 미리보기
      - **참고**: 1단계 성별과 무관하게 원하는 외형 선택 가능
+<img width="764" height="641" alt="image_2" src="https://github.com/user-attachments/assets/1c7c88b8-01b3-4d31-9f22-72edeeed354f" />
+
    - 🖼️ **이미지 업로드**
      - 원하는 캐릭터 이미지 업로드 (PNG, JPG, GIF 지원)
      - 간편하고 빠른 설정
-<img width="603" height="660" alt="image_1" src="https://github.com/user-attachments/assets/a18ebe32-aaca-49e4-966c-8fca953a4421" />   
-<img width="764" height="641" alt="image_2" src="https://github.com/user-attachments/assets/1c7c88b8-01b3-4d31-9f22-72edeeed354f" />
 
 3. **성격 & 말투 선택**
    - 다중 선택 가능한 성격 특성
