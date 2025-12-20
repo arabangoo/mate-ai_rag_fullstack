@@ -39,6 +39,8 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
    - 🖼️ **이미지 업로드**
      - 원하는 캐릭터 이미지 업로드 (PNG, JPG, GIF 지원)
      - 간편하고 빠른 설정
+<img width="603" height="660" alt="image_1" src="https://github.com/user-attachments/assets/a18ebe32-aaca-49e4-966c-8fca953a4421" />   
+<img width="764" height="641" alt="image_2" src="https://github.com/user-attachments/assets/1c7c88b8-01b3-4d31-9f22-72edeeed354f" />
 
 3. **성격 & 말투 선택**
    - 다중 선택 가능한 성격 특성
@@ -47,11 +49,13 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
      - 친근하고 다정함
      - 공손하고 정중함
      - 쿨하고 직설적
+<img width="611" height="638" alt="image_3" src="https://github.com/user-attachments/assets/e5f90982-edba-4d3c-8f0b-a6e90749df08" />
 
 4. **배경 스토리 작성** (최소 100자)
    - 캐릭터의 과거, 성장 배경
    - 가치관, 꿈, 인생 철학
    - AI의 행동 원칙이 되는 핵심 요소
+<img width="610" height="674" alt="image_4" src="https://github.com/user-attachments/assets/de034dd8-0a9c-4875-beaf-a1bce3e2244c" />
 
 ### ❤️ 관계 진행 시스템
 
@@ -102,6 +106,8 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
 
 #### File Search RAG - 완벽한 기억력
 **모든 대화와 파일이 영구 저장되어 캐릭터가 기억합니다**
+<img width="1253" height="703" alt="image_5" src="https://github.com/user-attachments/assets/de161c55-7eb6-4dc7-8d26-7dcf7521b9fc" />   
+<img width="1257" height="648" alt="image_7" src="https://github.com/user-attachments/assets/c46b6f69-d265-4f77-82ba-84e6dcc6f085" />   
 
 - ✅ **모든 대화 내용 자동 저장**: 사용자와 AI의 모든 대화가 RAG에 저장
 - ✅ **업로드한 파일 기억**: 이미지, 문서 등 업로드한 모든 파일을 RAG에 저장하여 나중에 참조
@@ -157,6 +163,7 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
 - 자연스러운 대화 흐름
 
 ### 📊 관계 대시보드
+<img width="1253" height="646" alt="image_8" src="https://github.com/user-attachments/assets/70d36738-a617-44ad-9d6a-4271d786147d" />
 
 #### 시각화 요소
 - **호감도 진행 바**: 현재 호감도 시각적 표시
