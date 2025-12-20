@@ -328,11 +328,6 @@ npm install
    VITE_READYPLAYERME_SUBDOMAIN=your-subdomain-here
    ```
 
-   예시:
-   ```env
-   VITE_READYPLAYERME_SUBDOMAIN=mateai-9h686e
-   ```
-
    > **참고**: 설정하지 않으면 기본값 'demo'로 작동합니다.
 
 #### 3.2 Frontend 서버 실행
