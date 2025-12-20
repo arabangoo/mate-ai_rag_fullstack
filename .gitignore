@@ -1,0 +1,58 @@
+# Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+**/*.egg-info/
+**/dist/
+**/build/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+.venv/
+venv/
+**/.venv/
+**/venv/
+.langgraph_api/
+**/.langgraph_api/
+*.pckl
+**/*.pckl
+
+# Node.js / Frontend
+**/node_modules/
+**/dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Environment variables (contains API keys)
+.env
+**/.env
+.env.local
+.env.*.local
+
+# User data and conversations
+**/data/characters/
+**/data/file_search_metadata.json
+backend/data/characters/
+backend/data/file_search_metadata.json
