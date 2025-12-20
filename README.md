@@ -30,12 +30,16 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
    - 자유로운 커스터마이징
 
 2. **외형 디자인** (2가지 옵션)
+<img width="603" height="660" alt="image_1" src="https://github.com/user-attachments/assets/a18ebe32-aaca-49e4-966c-8fca953a4421" />
+
    - 🎮 **MATE.AI 3D 아바타 생성**
      - MMORPG 수준의 고품질 3D 캐릭터 커스터마이징
      - 아바타 에디터 내에서 성별, 얼굴 모양, 헤어스타일, 의상, 액세서리 등 자유롭게 선택
      - 셀카로 얼굴 인식 생성 가능
      - Web 기반 실시간 3D 미리보기
      - **참고**: 1단계 성별과 무관하게 원하는 외형 선택 가능
+<img width="764" height="641" alt="image_2" src="https://github.com/user-attachments/assets/1c7c88b8-01b3-4d31-9f22-72edeeed354f" />
+
    - 🖼️ **이미지 업로드**
      - 원하는 캐릭터 이미지 업로드 (PNG, JPG, GIF 지원)
      - 간편하고 빠른 설정
@@ -47,11 +51,13 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
      - 친근하고 다정함
      - 공손하고 정중함
      - 쿨하고 직설적
+<img width="611" height="638" alt="image_3" src="https://github.com/user-attachments/assets/e5f90982-edba-4d3c-8f0b-a6e90749df08" />
 
 4. **배경 스토리 작성** (최소 100자)
    - 캐릭터의 과거, 성장 배경
    - 가치관, 꿈, 인생 철학
    - AI의 행동 원칙이 되는 핵심 요소
+<img width="610" height="674" alt="image_4" src="https://github.com/user-attachments/assets/de034dd8-0a9c-4875-beaf-a1bce3e2244c" />
 
 ### ❤️ 관계 진행 시스템
 
@@ -102,6 +108,8 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
 
 #### File Search RAG - 완벽한 기억력
 **모든 대화와 파일이 영구 저장되어 캐릭터가 기억합니다**
+<img width="1253" height="703" alt="image_5" src="https://github.com/user-attachments/assets/de161c55-7eb6-4dc7-8d26-7dcf7521b9fc" />   
+<img width="1257" height="648" alt="image_7" src="https://github.com/user-attachments/assets/c46b6f69-d265-4f77-82ba-84e6dcc6f085" />   
 
 - ✅ **모든 대화 내용 자동 저장**: 사용자와 AI의 모든 대화가 RAG에 저장
 - ✅ **업로드한 파일 기억**: 이미지, 문서 등 업로드한 모든 파일을 RAG에 저장하여 나중에 참조
@@ -157,6 +165,7 @@ MATE.AI는 사용자가 자신만의 AI 캐릭터를 생성하고, 감정적으�
 - 자연스러운 대화 흐름
 
 ### 📊 관계 대시보드
+<img width="1253" height="646" alt="image_8" src="https://github.com/user-attachments/assets/70d36738-a617-44ad-9d6a-4271d786147d" />
 
 #### 시각화 요소
 - **호감도 진행 바**: 현재 호감도 시각적 표시
@@ -587,11 +596,11 @@ MATE.AI는 **Google Cloud의 완전 관리형 서버리스 RAG** 시스템을 �
 
 ### 📈 결론
 
-✅ **RAG 저장 비용: 거의 무료** (월 1원 미만)
-✅ **주요 비용: 대화 생성 비용** (대화 1회 약 1.25원)
-✅ **일반 사용자 월 비용: 400~2,000원**
-✅ **서버리스 아키텍처로 초기 투자 비용 $0**
-✅ **사용한 만큼만 과금, 트래픽 없으면 비용도 없음**
+✅ **RAG 저장 비용: 거의 무료** (월 1원 미만)   
+✅ **주요 비용: 대화 생성 비용** (대화 1회 약 1.25원)   
+✅ **일반 사용자 월 비용: 400~2,000원**   
+✅ **서버리스 아키텍처로 초기 투자 비용 $0**   
+✅ **사용한 만큼만 과금, 트래픽 없으면 비용도 없음**   
 
 **MATE.AI는 클라우드 서버리스 RAG 덕분에 개인 프로젝트부터 상용 서비스까지 매우 경제적으로 운영 가능합니다! 🎉**
 
@@ -628,39 +637,39 @@ VITE_READYPLAYERME_SUBDOMAIN=your-subdomain-here
 
 ### 자주 묻는 질문
 
-**Q: Gemini API 키는 어디서 발급받나요?**
+**Q: Gemini API 키는 어디서 발급받나요?**   
 A: https://aistudio.google.com/app/apikey
 
-**Q: 무료로 사용 가능한가요?**
+**Q: 무료로 사용 가능한가요?**   
 A: Gemini API는 무료 할당량이 있습니다. 자세한 내용은 Google AI 문서 참조.
 
-**Q: Ready Player Me 설정이 필수인가요?**
+**Q: Ready Player Me 설정이 필수인가요?**   
 A: 아닙니다. 선택사항입니다. 설정하지 않아도 이미지 업로드 방식으로 캐릭터를 생성할 수 있습니다.
 
-**Q: 3D 아바타 생성 시 성별을 어떻게 선택하나요?**
+**Q: 3D 아바타 생성 시 성별을 어떻게 선택하나요?**   
 A:
 - 1단계에서 선택한 성별은 AI의 정체성(대화 스타일)을 결정합니다
 - 3D 아바타의 외형 성별은 아바타 에디터 내에서 별도로 선택할 수 있습니다
 - 예: 여성 AI + 남성 아바타, 남성 AI + 여성 아바타 등 자유로운 조합 가능
 
-**Q: MATE.AI 3D 아바타가 로딩되지 않아요**
+**Q: MATE.AI 3D 아바타가 로딩되지 않아요**   
 A:
 1. Vite 개발 서버를 재시작하세요 (환경 변수 반영)
 2. 브라우저 콘솔(F12)에서 에러 메시지 확인
 3. Ready Player Me Studio에서 Subdomain이 올바른지 확인
 4. 10초 타임아웃 후 자동으로 아바타 에디터가 표시됩니다
 
-**Q: 다른 언어도 지원하나요?**
+**Q: 다른 언어도 지원하나요?**   
 A: 현재는 한국어만 지원합니다.
 
-**Q: Backend 서버가 시작되지 않아요**
+**Q: Backend 서버가 시작되지 않아요**   
 A:
 1. Python 3.11 이상이 설치되어 있는지 확인
 2. 가상환경이 활성화되어 있는지 확인
 3. `.env` 파일에 GEMINI_API_KEY가 설정되어 있는지 확인
 4. `pip install -e .`로 패키지가 제대로 설치되었는지 확인
 
-**Q: Frontend 빌드 에러가 발생해요**
+**Q: Frontend 빌드 에러가 발생해요**   
 A:
 1. Node.js 18 이상이 설치되어 있는지 확인
 2. `node_modules` 삭제 후 `npm install` 재실행
