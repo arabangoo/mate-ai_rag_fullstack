@@ -45,12 +45,6 @@ desktop.ini
 *.temp
 .cache/
 
-# Environment variables (contains API keys)
-.env
-**/.env
-.env.local
-.env.*.local
-
 # User data and conversations
 **/data/characters/
 **/data/file_search_metadata.json
