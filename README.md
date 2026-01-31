@@ -687,6 +687,3 @@ Apache-2.0 license - 자유롭게 사용, 수정, 배포 가능합니다.
 
 이 프로젝트는 영화 "Her"에서 영감을 받아 만들어졌습니다.
 
----
-
-**Made with ❤️ for meaningful AI relationships**
